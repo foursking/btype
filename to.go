@@ -1,5 +1,5 @@
-// Package ztype provides Variable Type Related Operations
-package ztype
+// Package btype provides Variable Type Related Operations
+package btype
 
 import (
 	// "encoding/json"

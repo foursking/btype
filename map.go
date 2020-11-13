@@ -1,4 +1,4 @@
-package ztype
+package btype
 
 import (
 	"reflect"
